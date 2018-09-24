@@ -1,0 +1,6 @@
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\obj\Debug\MyActivity.csproj.CoreCompileInputs.cache
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\bin\Debug\MyActivity.dll
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\bin\Debug\MyActivity.pdb
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\obj\Debug\MyActivity.csproj.ResolveComReference.cache
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\obj\Debug\MyActivity.dll
+C:\Users\akalbhor\source\repos\ExcelSheetNames\MyActivity\obj\Debug\MyActivity.pdb

@@ -1,0 +1,9 @@
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.csprojAssemblyReference.cache
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.csproj.CoreCompileInputs.cache
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.AssemblyInfoInputs.cache
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.AssemblyInfo.cs
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\bin\Debug\netstandard2.0\ExcelSheetNames.deps.json
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\bin\Debug\netstandard2.0\ExcelSheetNames.dll
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\bin\Debug\netstandard2.0\ExcelSheetNames.pdb
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.dll
+C:\Users\akalbhor\source\repos\ExcelSheetNames\ExcelSheetNames\obj\Debug\netstandard2.0\ExcelSheetNames.pdb
